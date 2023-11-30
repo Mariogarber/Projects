@@ -1,0 +1,52 @@
+Contenido:
+-Función sacar_primera_silaba(palabra): saca la primera sílaba de la palabra
+-Función sacar_última_silaba(palabra): saca la última sílaba de la palabra
+-Función sacar_encadenacion_ganadora(palabra): devuelve un vector con la palabra dada y la palabra que hemos encadenado en el caso de que exista
+-Función sacar_encadenacion_eligiendo_ganadora(palabra): devuelve la palabra elegida. Esta función se diferencia en que antes de elegir una palabra para devolver se mira 
+  si alguna de las palabras que matchea es ganadora, lo que aumenta mucho el tiempo de ejecución
+-Función juego(): comienza el juego. Es donde se piden las palabras. Usamos la función sacar_encadenación_ganadora para reducir el tiempo que tarda en sacar cada palabra
+
+
+Para el ejercicio 2 se nos hacer el juego de las palabras encadenadas con algunas reglas: 
+-Las palabras debían de tener más de 5 letras
+-Se usarán las sílabas que separe la función hyphen
+
+Para ello se han podido reciclar algunas funciones auxiliares del ejercicio 1, como la función sacar_primera_silaba
+o la función sacar_segunda_silaba. También se ha modificado la función sacar_encadenacion para que funcione
+en este caso, ya que el programa no separa bien las sílabas. 
+Por ejemplo, si nosotros no cambiaramos la función y introdujeramos la palabra "arroz", el programa la cuenta
+como una única sílaba y la función devuelve la propia palabra "arroz", algo que no sería válido en el juego.
+
+Además, antes de devolver una palabra debemos comprobar si alguna de las posible palabras que matchean con ella es ganadora,
+lo que significa que alguna de estas palabras si la volvemos a pasar por la función de sacar encadenación,
+no se va a encontrar ninguna. La principal pega de esta función es el tiempo de ejecución, ya que debemos
+iterar 1250000 veces en primer lugar para sacar las palabras que matchean con la palabra introducida, y luego hay que
+iterar de nuevo por cada palabra de esa lista hasta que se encuentre una posible continuación que indique que esa
+palabra no es ganadora. En el caso de que fuera ganadora, se iteraría 1250000 y cuando se viera que no hay ninguna
+coincidencia, se devolvería esa palabra. Es posible hacerlo más óptimo aún si se intentara ver si la palabra es ganadora 
+nada más obtenerla como encadenación la primera vez, ya que si se encuentra en las primeras iteraciones te ahorraría entrar en los
+siguiente bucles, sin embargo, los casos en los que se notaría diferencia son muy pocos, ya que la cantidad de
+palabras ganadoras en el diccionario es mínima comparada con todas las palabras que hay. En conclusión, aunque 
+esta función que hemos definido funciona correctamente y siempre selecciona una palabra ganadora por encima
+de una que no lo es, tarda demasiado en encontrarla. Hicimos la prueba pasándole la palabra "mandoble" y tardó
+11 minutos en completar la ejecución. Devolvió la palabra blefaroplastias, cuya última sílaba según el programa
+es "tias", y no existe ninguna palabra en el diccionario que tenemos con 5 o más letras y comience por la sílaba tías.
+Cabe destacar que blefaroplastias era la 5º palabra en nuestra lista de palabras matcheadas, pero había
+11 palabras. En el caso de que la palabra ganadora se encontrara en esta última posición, el tiempo de ejecución
+sería inviable.
+
+Es por esto que decidimos hacer una lista con unas sílabas para las cuales existen palabras ganadoras, como
+es caso de la sílaba "ca". Este programa lo que hace es ver en primer lugar si tu sílaba tiene alguna palabra
+ganadora asociada. Por ejemplo, si le pasamos la palabra "hamaca", como la sílaba "ca" tiene asociada la 
+palabra ganadora "cañón", el programa te diría que has perdido, ya que "cañón" no puede ser continudada.
+En el caso de que tu palabra si tenga alguna encadenación, el programa la buscaría y te la devolvería.
+
+Algunos casos excepcionales son las palabras como "gonorrea", ya que el programa marca que su última sílaba
+es "rrea". Como ya sabemos, no hay ninguna palabra que empiece por rrea en el español, ya que la doble "r" no
+se puede usar al comienzo de una palabra. Por tanto, si la última sílaba de la palabra del usuario comienza 
+por doble "r", el programa dirá que no existe ninguna palabra que la continue. 
+
+Por último, el usuario solo va a poder meter palabras con 5 o más letras que estén en el diccionario. En
+el caso de que esto no se cumpla se pedirá otra palabra.
+
+Los autores de este código son Mario García Berenguer y Eder Tarifa Fernández, Estudiandes del grado de ciencia de Datos e Inteligencia Artificial en la UPM.

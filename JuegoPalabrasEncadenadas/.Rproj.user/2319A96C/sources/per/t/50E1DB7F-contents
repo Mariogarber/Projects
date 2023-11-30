@@ -1,0 +1,12 @@
+dic <- read.table(file='dic_es.txt', encoding='UTF-8')
+eliminar <- vector()
+for (i in 1:(dim(dic)[1])){
+  if (str_count(dic[i,1]) < 5){
+    eliminar <- c(eliminar, i)
+  }
+}
+dic <- dic[-eliminar,]
+dic_clean <- file(description = "dic_es_clean.txt",open = "wt",
+                  blocking = TRUE,encoding = "UTF-8")
+writeLines(dic, dic_clean,sep = "\n")
+close(dic_clean)
