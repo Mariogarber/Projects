@@ -1,0 +1,1324 @@
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -82.45599999999999, Episode: 1, Step: 1
+State: [[ 253.          123.         6939.77817178]], Action: 3, Reward: -82.45599999999999, Score: -164.91199999999998, Episode: 1, Step: 2
+State: [[ 232.          122.         6939.77817178]], Action: 6, Reward: -65.0, Score: -229.91199999999998, Episode: 1, Step: 3
+State: [[ 223.5         121.5        7088.21842466]], Action: 5, Reward: 69.0, Score: -160.91199999999998, Episode: 1, Step: 4
+State: [[ 216.          121.         6939.77817178]], Action: 0, Reward: -59.0, Score: -219.91199999999998, Episode: 1, Step: 5
+State: [[ 222.          122.         6939.77817178]], Action: 3, Reward: -82.45599999999999, Score: -302.36799999999994, Episode: 1, Step: 6
+State: [[ 226.5         121.5        7088.21842466]], Action: 4, Reward: 98.92, Score: -203.44799999999992, Episode: 1, Step: 7
+State: [[ 211.          121.         7542.96396127]], Action: 3, Reward: -82.45599999999999, Score: -285.9039999999999, Episode: 1, Step: 8
+State: [[ 221.          121.         7853.98163397]], Action: 4, Reward: 98.92, Score: -186.98399999999987, Episode: 1, Step: 9
+State: [[ 216.          121.         8171.28249199]], Action: 2, Reward: -146.84, Score: -333.82399999999984, Episode: 1, Step: 10
+State: [[ 225.5         120.5        8659.01475146]], Action: 5, Reward: 69.0, Score: -264.82399999999984, Episode: 1, Step: 11
+State: [[ 221.5         120.5        8659.01475146]], Action: 6, Reward: -65.0, Score: -329.82399999999984, Episode: 1, Step: 12
+State: [[ 227.5         120.5        8659.01475146]], Action: 1, Reward: -64.92, Score: -394.74399999999986, Episode: 1, Step: 13
+State: [[ 248.          120.         8494.86653531]], Action: 5, Reward: 69.0, Score: -325.74399999999986, Episode: 1, Step: 14
+State: [[ 237.          121.         7853.98163397]], Action: 0, Reward: -59.0, Score: -384.74399999999986, Episode: 1, Step: 15
+State: [[ 251.          121.         7542.96396127]], Action: 5, Reward: 69.0, Score: -315.74399999999986, Episode: 1, Step: 16
+State: [[ 263.5         121.5        7088.21842466]], Action: 2, Reward: -146.84, Score: -462.58399999999983, Episode: 1, Step: 17
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -521.5839999999998, Episode: 1, Step: 18
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -452.58399999999983, Episode: 1, Step: 19
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -353.6639999999998, Episode: 1, Step: 20
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -284.6639999999998, Episode: 1, Step: 21
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -367.1199999999998, Episode: 1, Step: 22
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -298.1199999999998, Episode: 1, Step: 23
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -363.1199999999998, Episode: 1, Step: 24
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -509.9599999999998, Episode: 1, Step: 25
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -568.9599999999998, Episode: 1, Step: 26
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -499.9599999999998, Episode: 1, Step: 27
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -564.8799999999998, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -711.7199999999998, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -858.5599999999998, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -789.5599999999998, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -690.6399999999999, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -591.7199999999999, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -650.7199999999999, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -551.8, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -698.64, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -757.64, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -816.64, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -717.72, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -782.72, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -683.8000000000001, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -584.8800000000001, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -731.7200000000001, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -796.6400000000001, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -879.0960000000001, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -1025.9360000000001, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -1172.776, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -1237.6960000000001, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -1302.6960000000001, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -1367.6960000000001, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1268.776, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -1351.232, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -1416.152, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1317.232, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1218.312, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1119.3919999999998, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -1184.3919999999998, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1085.4719999999998, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -1232.3119999999997, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1133.3919999999996, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1034.4719999999995, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -1099.4719999999995, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1000.5519999999996, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -1065.4719999999995, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -966.5519999999996, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -897.5519999999996, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -798.6319999999996, Episode: 1, Step: 67
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -857.6319999999996, Episode: 1, Step: 68
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -758.7119999999996, Episode: 1, Step: 69
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -659.7919999999997, Episode: 1, Step: 70
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -560.8719999999997, Episode: 1, Step: 71
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -707.7119999999998, Episode: 1, Step: 72
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -608.7919999999998, Episode: 1, Step: 73
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -509.8719999999998, Episode: 1, Step: 74
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -410.95199999999977, Episode: 1, Step: 75
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -475.8719999999998, Episode: 1, Step: 76
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -376.95199999999977, Episode: 1, Step: 77
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -278.03199999999975, Episode: 1, Step: 78
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -337.03199999999975, Episode: 1, Step: 79
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -238.11199999999974, Episode: 1, Step: 80
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -139.19199999999972, Episode: 1, Step: 81
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -286.0319999999997, Episode: 1, Step: 82
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -187.11199999999968, Episode: 1, Step: 83
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -269.56799999999964, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -170.64799999999963, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -235.56799999999964, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -136.64799999999963, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -219.10399999999962, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -120.18399999999961, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -21.263999999999612, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -86.26399999999961, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12.65600000000039, Episode: 1, Step: 92
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 111.57600000000039, Episode: 1, Step: 93
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 210.49600000000038, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 309.4160000000004, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 408.3360000000004, Episode: 1, Step: 96
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 507.2560000000004, Episode: 1, Step: 97
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 606.1760000000004, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 705.0960000000003, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 804.0160000000003, Episode: 1, Step: 100
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: 739.0960000000003, Episode: 1, Step: 101
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 838.0160000000003, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 779.0160000000003, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 877.9360000000003, Episode: 1, Step: 104
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 976.8560000000002, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1075.7760000000003, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1174.6960000000004, Episode: 1, Step: 107
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1273.6160000000004, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 1126.7760000000005, Episode: 1, Step: 109
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 1044.3200000000006, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 961.8640000000006, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1060.7840000000006, Episode: 1, Step: 112
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1159.7040000000006, Episode: 1, Step: 113
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1094.7040000000006, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1193.6240000000007, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1128.6240000000007, Episode: 1, Step: 116
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 1069.6240000000007, Episode: 1, Step: 117
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1168.5440000000008, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1267.4640000000009, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1366.384000000001, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1301.384000000001, Episode: 1, Step: 121
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 1154.544000000001, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1089.544000000001, Episode: 1, Step: 123
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1188.464000000001, Episode: 1, Step: 124
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1287.3840000000012, Episode: 1, Step: 125
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1386.3040000000012, Episode: 1, Step: 126
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 1455.3040000000012, Episode: 1, Step: 127
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1554.2240000000013, Episode: 1, Step: 128
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 1623.2240000000013, Episode: 1, Step: 129
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1722.1440000000014, Episode: 1, Step: 130
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1657.1440000000014, Episode: 1, Step: 131
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1756.0640000000014, Episode: 1, Step: 132
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1854.9840000000015, Episode: 1, Step: 133
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1953.9040000000016, Episode: 1, Step: 134
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2052.8240000000014, Episode: 1, Step: 135
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2151.7440000000015, Episode: 1, Step: 136
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2250.6640000000016, Episode: 1, Step: 137
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2349.5840000000017, Episode: 1, Step: 138
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2448.5040000000017, Episode: 1, Step: 139
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2547.424000000002, Episode: 1, Step: 140
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2646.344000000002, Episode: 1, Step: 141
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2745.264000000002, Episode: 1, Step: 142
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2844.184000000002, Episode: 1, Step: 143
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2943.104000000002, Episode: 1, Step: 144
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3042.024000000002, Episode: 1, Step: 145
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3140.9440000000022, Episode: 1, Step: 146
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 3058.488000000002, Episode: 1, Step: 147
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3157.408000000002, Episode: 1, Step: 148
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3256.3280000000022, Episode: 1, Step: 149
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3355.2480000000023, Episode: 1, Step: 150
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3454.1680000000024, Episode: 1, Step: 151
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3553.0880000000025, Episode: 1, Step: 152
+State: [[ 253.          123.         6939.77817178]], Action: 0, Reward: -59.0, Score: 3494.0880000000025, Episode: 1, Step: 153
+State: [[ 253.5         121.5        7088.21842466]], Action: 3, Reward: -82.45599999999999, Score: 3411.6320000000023, Episode: 1, Step: 154
+State: [[ 135.          121.         6939.77817178]], Action: 3, Reward: -82.45599999999999, Score: 3329.176000000002, Episode: 1, Step: 155
+State: [[  66.5         121.5        8011.84666482]], Action: 3, Reward: -82.45599999999999, Score: 3246.720000000002, Episode: 1, Step: 156
+State: [[  55.          120.         9503.31777711]], Action: 3, Reward: -82.45599999999999, Score: 3164.264000000002, Episode: 1, Step: 157
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3263.184000000002, Episode: 1, Step: 158
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 3198.184000000002, Episode: 1, Step: 159
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3297.104000000002, Episode: 1, Step: 160
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3396.024000000002, Episode: 1, Step: 161
+State: [[  46.5         121.5        6792.90871522]], Action: 3, Reward: -82.45599999999999, Score: 3313.568000000002, Episode: 1, Step: 162
+State: [[ 166.5         121.5        6792.90871522]], Action: 3, Reward: -82.45599999999999, Score: 3231.112000000002, Episode: 1, Step: 163
+State: [[ 216.          121.         7238.22947387]], Action: 3, Reward: -82.45599999999999, Score: 3148.6560000000018, Episode: 1, Step: 164
+State: [[ 258.          121.         7542.96396127]], Action: 3, Reward: -82.45599999999999, Score: 3066.2000000000016, Episode: 1, Step: 165
+State: [[ 276.          121.         3631.68110755]], Action: 4, Reward: 98.92, Score: 3165.1200000000017, Episode: 1, Step: 166
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3264.040000000002, Episode: 1, Step: 167
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3362.960000000002, Episode: 1, Step: 168
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3461.880000000002, Episode: 1, Step: 169
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3560.800000000002, Episode: 1, Step: 170
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3659.720000000002, Episode: 1, Step: 171
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3758.640000000002, Episode: 1, Step: 172
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3857.560000000002, Episode: 1, Step: 173
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3956.4800000000023, Episode: 1, Step: 174
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4055.4000000000024, Episode: 1, Step: 175
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -64.92, Episode: 1, Step: 1
+State: [[ 253.          123.         6939.77817178]], Action: 4, Reward: 98.92, Score: 34.0, Episode: 1, Step: 2
+State: [[ 236.5         122.5        6503.88219109]], Action: 4, Reward: 98.92, Score: 132.92000000000002, Episode: 1, Step: 3
+State: [[ 227.          122.         6361.72512352]], Action: 2, Reward: -146.84, Score: -13.919999999999987, Episode: 1, Step: 4
+State: [[ 240.        122.       6647.610055]], Action: 4, Reward: 98.92, Score: 85.00000000000001, Episode: 1, Step: 5
+State: [[ 231.5         121.5        6792.90871522]], Action: 3, Reward: -82.45599999999999, Score: 2.5440000000000254, Episode: 1, Step: 6
+State: [[ 230.5         121.5        6792.90871522]], Action: 6, Reward: -65.0, Score: -62.455999999999975, Episode: 1, Step: 7
+State: [[ 219.5         121.5        7088.21842466]], Action: 1, Reward: -64.92, Score: -127.37599999999998, Episode: 1, Step: 8
+State: [[ 206.          121.         7238.22947387]], Action: 1, Reward: -64.92, Score: -192.296, Episode: 1, Step: 9
+State: [[ 183.          122.         6939.77817178]], Action: 0, Reward: -59.0, Score: -251.296, Episode: 1, Step: 10
+State: [[ 165.5         121.5        6503.88219109]], Action: 6, Reward: -65.0, Score: -316.296, Episode: 1, Step: 11
+State: [[ 141.5         121.5        6503.88219109]], Action: 2, Reward: -146.84, Score: -463.13599999999997, Episode: 1, Step: 12
+State: [[ 105.5         121.5        6503.88219109]], Action: 0, Reward: -59.0, Score: -522.136, Episode: 1, Step: 13
+State: [[  79.5         122.5        6503.88219109]], Action: 0, Reward: -59.0, Score: -581.136, Episode: 1, Step: 14
+State: [[  24.5         121.5        1885.74099032]], Action: 3, Reward: -82.45599999999999, Score: -663.592, Episode: 1, Step: 15
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -564.672, Episode: 1, Step: 16
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -647.128, Episode: 1, Step: 17
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -548.2080000000001, Episode: 1, Step: 18
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -613.128, Episode: 1, Step: 19
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -514.2080000000001, Episode: 1, Step: 20
+State: [[  42.          123.         5541.76944093]], Action: 1, Reward: -64.92, Score: -579.128, Episode: 1, Step: 21
+State: [[  41.          122.         5281.01725068]], Action: 2, Reward: -146.84, Score: -725.9680000000001, Episode: 1, Step: 22
+State: [[  68.5         122.5        5152.99735005]], Action: 1, Reward: -64.92, Score: -790.888, Episode: 1, Step: 23
+State: [[  77.5         123.5        5152.99735005]], Action: 0, Reward: -59.0, Score: -849.888, Episode: 1, Step: 24
+State: [[  89.5         123.5        4901.66993776]], Action: 0, Reward: -59.0, Score: -908.888, Episode: 1, Step: 25
+State: [[  96.          123.         4778.36242611]], Action: 0, Reward: -59.0, Score: -967.888, Episode: 1, Step: 26
+State: [[  71.          123.         4778.36242611]], Action: 4, Reward: 98.92, Score: -868.9680000000001, Episode: 1, Step: 27
+State: [[  45.5         123.5        4901.66993776]], Action: 6, Reward: -65.0, Score: -933.9680000000001, Episode: 1, Step: 28
+State: [[  51.          123.         4778.36242611]], Action: 0, Reward: -59.0, Score: -992.9680000000001, Episode: 1, Step: 29
+State: [[  80.          123.         4536.45979178]], Action: 4, Reward: 98.92, Score: -894.0480000000001, Episode: 1, Step: 30
+State: [[ 110.          123.         4300.84034276]], Action: 2, Reward: -146.84, Score: -1040.8880000000001, Episode: 1, Step: 31
+State: [[ 112.          123.         4300.84034276]], Action: 4, Reward: 98.92, Score: -941.9680000000002, Episode: 1, Step: 32
+State: [[ 117.5         123.5        3959.19214169]], Action: 4, Reward: 98.92, Score: -843.0480000000002, Episode: 1, Step: 33
+State: [[ 158.5         123.5        3959.19214169]], Action: 6, Reward: -65.0, Score: -908.0480000000002, Episode: 1, Step: 34
+State: [[ 181.5         123.5        3959.19214169]], Action: 4, Reward: 98.92, Score: -809.1280000000003, Episode: 1, Step: 35
+State: [[ 185.          124.         3848.45100065]], Action: 1, Reward: -64.92, Score: -874.0480000000002, Episode: 1, Step: 36
+State: [[ 178.          124.         3631.68110755]], Action: 4, Reward: 98.92, Score: -775.1280000000003, Episode: 1, Step: 37
+State: [[ 168.5         123.5        3525.65235549]], Action: 4, Reward: 98.92, Score: -676.2080000000003, Episode: 1, Step: 38
+State: [[ 176.5         123.5        3739.28065594]], Action: 2, Reward: -146.84, Score: -823.0480000000003, Episode: 1, Step: 39
+State: [[ 190.5         123.5        3739.28065594]], Action: 1, Reward: -64.92, Score: -887.9680000000003, Episode: 1, Step: 40
+State: [[ 192.          124.         3848.45100065]], Action: 6, Reward: -65.0, Score: -952.9680000000003, Episode: 1, Step: 41
+State: [[ 176.5         123.5        3739.28065594]], Action: 0, Reward: -59.0, Score: -1011.9680000000003, Episode: 1, Step: 42
+State: [[ 166.5         123.5        3525.65235549]], Action: 2, Reward: -146.84, Score: -1158.8080000000002, Episode: 1, Step: 43
+State: [[ 154.5         123.5        3525.65235549]], Action: 0, Reward: -59.0, Score: -1217.8080000000002, Episode: 1, Step: 44
+State: [[ 142.5         123.5        3525.65235549]], Action: 0, Reward: -59.0, Score: -1276.8080000000002, Episode: 1, Step: 45
+State: [[ 119.5         123.5        3525.65235549]], Action: 3, Reward: -82.45599999999999, Score: -1359.2640000000001, Episode: 1, Step: 46
+State: [[  75.5         123.5        3739.28065594]], Action: 1, Reward: -64.92, Score: -1424.1840000000002, Episode: 1, Step: 47
+State: [[  53.          124.         3848.45100065]], Action: 2, Reward: -146.84, Score: -1571.0240000000001, Episode: 1, Step: 48
+State: [[  43.          124.         3848.45100065]], Action: 0, Reward: -59.0, Score: -1630.0240000000001, Episode: 1, Step: 49
+State: [[  34.5         123.5        3739.28065594]], Action: 6, Reward: -65.0, Score: -1695.0240000000001, Episode: 1, Step: 50
+State: [[  35.          123.         3848.45100065]], Action: 4, Reward: 98.92, Score: -1596.104, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1497.184, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1398.264, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1299.3439999999998, Episode: 1, Step: 54
+State: [[  9.5        123.5        283.52873699]], Action: 0, Reward: -59.0, Score: -1358.3439999999998, Episode: 1, Step: 55
+State: [[  34.5         123.5        3739.28065594]], Action: 2, Reward: -146.84, Score: -1505.1839999999997, Episode: 1, Step: 56
+State: [[  32.5         123.5        3318.30724035]], Action: 4, Reward: 98.92, Score: -1406.2639999999997, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -1471.1839999999997, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1372.2639999999997, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1273.3439999999996, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -1338.3439999999996, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1239.4239999999995, Episode: 1, Step: 62
+State: [[ 15.5        123.5        754.76763502]], Action: 2, Reward: -146.84, Score: -1386.2639999999994, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -1468.7199999999993, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1369.7999999999993, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -1300.7999999999993, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -1201.8799999999992, Episode: 1, Step: 67
+State: [[  34.5         123.5        3739.28065594]], Action: 4, Reward: 98.92, Score: -1102.9599999999991, Episode: 1, Step: 68
+State: [[  60.5         123.5        3959.19214169]], Action: 4, Reward: 98.92, Score: -1004.0399999999992, Episode: 1, Step: 69
+State: [[  94.5         122.5        4185.38681275]], Action: 3, Reward: -82.45599999999999, Score: -1086.4959999999992, Episode: 1, Step: 70
+State: [[ 105.          123.         4300.84034276]], Action: 4, Reward: 98.92, Score: -987.5759999999992, Episode: 1, Step: 71
+State: [[  86.5         122.5        4656.62571078]], Action: 4, Reward: 98.92, Score: -888.6559999999993, Episode: 1, Step: 72
+State: [[ 131.          122.         5026.54824574]], Action: 6, Reward: -65.0, Score: -953.6559999999993, Episode: 1, Step: 73
+State: [[ 153.          123.         5281.01725068]], Action: 4, Reward: 98.92, Score: -854.7359999999993, Episode: 1, Step: 74
+State: [[ 134.          123.         4536.45979178]], Action: 4, Reward: 98.92, Score: -755.8159999999993, Episode: 1, Step: 75
+State: [[ 124.5         123.5        4417.86466911]], Action: 4, Reward: 98.92, Score: -656.8959999999994, Episode: 1, Step: 76
+State: [[ 180.5         122.5        4656.62571078]], Action: 1, Reward: -64.92, Score: -721.8159999999993, Episode: 1, Step: 77
+State: [[ 208.5         123.5        4901.66993776]], Action: 5, Reward: 69.0, Score: -652.8159999999993, Episode: 1, Step: 78
+State: [[ 216.5         123.5        4656.62571078]], Action: 4, Reward: 98.92, Score: -553.8959999999994, Episode: 1, Step: 79
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -454.9759999999994, Episode: 1, Step: 80
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -601.8159999999993, Episode: 1, Step: 81
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -502.89599999999933, Episode: 1, Step: 82
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -403.9759999999993, Episode: 1, Step: 83
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -305.0559999999993, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -387.51199999999926, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -318.51199999999926, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -219.59199999999925, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -120.67199999999924, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -203.12799999999925, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -262.12799999999925, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -321.12799999999925, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: -252.12799999999925, Episode: 1, Step: 92
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -317.04799999999926, Episode: 1, Step: 93
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -399.5039999999992, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -300.5839999999992, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -359.5839999999992, Episode: 1, Step: 96
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -260.6639999999992, Episode: 1, Step: 97
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -325.6639999999992, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -384.6639999999992, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -285.7439999999992, Episode: 1, Step: 100
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -350.7439999999992, Episode: 1, Step: 101
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -251.82399999999916, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -152.90399999999914, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: -217.82399999999916, Episode: 1, Step: 104
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -118.90399999999916, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -19.983999999999156, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -84.98399999999916, Episode: 1, Step: 107
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -231.82399999999916, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -132.90399999999914, Episode: 1, Step: 109
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: -33.98399999999914, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 64.93600000000086, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 163.85600000000085, Episode: 1, Step: 112
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 262.77600000000086, Episode: 1, Step: 113
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 180.32000000000087, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 279.24000000000086, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 378.1600000000009, Episode: 1, Step: 116
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 477.0800000000009, Episode: 1, Step: 117
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 576.0000000000009, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 674.9200000000009, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 773.8400000000008, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 872.7600000000008, Episode: 1, Step: 121
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 971.6800000000007, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1070.6000000000008, Episode: 1, Step: 123
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: 1005.6800000000009, Episode: 1, Step: 124
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1104.6000000000008, Episode: 1, Step: 125
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 1173.6000000000008, Episode: 1, Step: 126
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1108.6000000000008, Episode: 1, Step: 127
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1207.520000000001, Episode: 1, Step: 128
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1306.440000000001, Episode: 1, Step: 129
+State: [[ 273.5         121.5        4901.66993776]], Action: 3, Reward: -82.45599999999999, Score: 1223.984000000001, Episode: 1, Step: 130
+State: [[266.         121.         530.92915846]], Action: 5, Reward: 69.0, Score: 1292.984000000001, Episode: 1, Step: 131
+State: [[ 274.5         120.5        2551.75863288]], Action: 6, Reward: -65.0, Score: 1227.984000000001, Episode: 1, Step: 132
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1326.9040000000011, Episode: 1, Step: 133
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1425.8240000000012, Episode: 1, Step: 134
+State: [[266.         121.         452.38934212]], Action: 1, Reward: -64.92, Score: 1360.9040000000011, Episode: 1, Step: 135
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1459.8240000000012, Episode: 1, Step: 136
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1558.7440000000013, Episode: 1, Step: 137
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1657.6640000000014, Episode: 1, Step: 138
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1756.5840000000014, Episode: 1, Step: 139
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 1674.1280000000015, Episode: 1, Step: 140
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1773.0480000000016, Episode: 1, Step: 141
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1871.9680000000017, Episode: 1, Step: 142
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 1970.8880000000017, Episode: 1, Step: 143
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2069.808000000002, Episode: 1, Step: 144
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2168.728000000002, Episode: 1, Step: 145
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2267.648000000002, Episode: 1, Step: 146
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2366.568000000002, Episode: 1, Step: 147
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2465.488000000002, Episode: 1, Step: 148
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2564.408000000002, Episode: 1, Step: 149
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2663.3280000000022, Episode: 1, Step: 150
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2762.2480000000023, Episode: 1, Step: 151
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 2861.1680000000024, Episode: 1, Step: 152
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 2930.1680000000024, Episode: 1, Step: 153
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3029.0880000000025, Episode: 1, Step: 154
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3128.0080000000025, Episode: 1, Step: 155
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3226.9280000000026, Episode: 1, Step: 156
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 3161.9280000000026, Episode: 1, Step: 157
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3260.8480000000027, Episode: 1, Step: 158
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 3329.8480000000027, Episode: 1, Step: 159
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3428.7680000000028, Episode: 1, Step: 160
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3527.688000000003, Episode: 1, Step: 161
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3626.608000000003, Episode: 1, Step: 162
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3725.528000000003, Episode: 1, Step: 163
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3824.448000000003, Episode: 1, Step: 164
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 3923.368000000003, Episode: 1, Step: 165
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4022.288000000003, Episode: 1, Step: 166
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 3963.288000000003, Episode: 1, Step: 167
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4062.2080000000033, Episode: 1, Step: 168
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4161.128000000003, Episode: 1, Step: 169
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4260.048000000003, Episode: 1, Step: 170
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4358.9680000000035, Episode: 1, Step: 171
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4457.888000000004, Episode: 1, Step: 172
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4556.808000000004, Episode: 1, Step: 173
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4655.728000000004, Episode: 1, Step: 174
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4754.648000000004, Episode: 1, Step: 175
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4853.568000000004, Episode: 1, Step: 176
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 4794.568000000004, Episode: 1, Step: 177
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4893.488000000004, Episode: 1, Step: 178
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 4992.408000000004, Episode: 1, Step: 179
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5091.328000000004, Episode: 1, Step: 180
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5190.248000000004, Episode: 1, Step: 181
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5289.168000000004, Episode: 1, Step: 182
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5388.088000000004, Episode: 1, Step: 183
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5487.008000000004, Episode: 1, Step: 184
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5585.928000000004, Episode: 1, Step: 185
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5684.8480000000045, Episode: 1, Step: 186
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5783.768000000005, Episode: 1, Step: 187
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5882.688000000005, Episode: 1, Step: 188
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 5735.8480000000045, Episode: 1, Step: 189
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5834.768000000005, Episode: 1, Step: 190
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 5933.688000000005, Episode: 1, Step: 191
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6032.608000000005, Episode: 1, Step: 192
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6131.528000000005, Episode: 1, Step: 193
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6230.448000000005, Episode: 1, Step: 194
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6329.368000000005, Episode: 1, Step: 195
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 6264.368000000005, Episode: 1, Step: 196
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 6181.912000000005, Episode: 1, Step: 197
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6280.832000000005, Episode: 1, Step: 198
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6379.752000000005, Episode: 1, Step: 199
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 6232.912000000005, Episode: 1, Step: 200
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6331.832000000005, Episode: 1, Step: 201
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6430.752000000005, Episode: 1, Step: 202
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6529.672000000005, Episode: 1, Step: 203
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6628.592000000005, Episode: 1, Step: 204
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6727.512000000005, Episode: 1, Step: 205
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6826.432000000005, Episode: 1, Step: 206
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 6925.352000000005, Episode: 1, Step: 207
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7024.272000000005, Episode: 1, Step: 208
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7123.1920000000055, Episode: 1, Step: 209
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7222.1120000000055, Episode: 1, Step: 210
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7321.032000000006, Episode: 1, Step: 211
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7419.952000000006, Episode: 1, Step: 212
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7518.872000000006, Episode: 1, Step: 213
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7617.792000000006, Episode: 1, Step: 214
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7716.712000000006, Episode: 1, Step: 215
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7815.632000000006, Episode: 1, Step: 216
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7914.552000000006, Episode: 1, Step: 217
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 7832.096000000006, Episode: 1, Step: 218
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 7931.016000000006, Episode: 1, Step: 219
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8029.936000000006, Episode: 1, Step: 220
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8128.856000000006, Episode: 1, Step: 221
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8227.776000000005, Episode: 1, Step: 222
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8326.696000000005, Episode: 1, Step: 223
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8425.616000000005, Episode: 1, Step: 224
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8524.536000000006, Episode: 1, Step: 225
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8623.456000000006, Episode: 1, Step: 226
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8722.376000000006, Episode: 1, Step: 227
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8821.296000000006, Episode: 1, Step: 228
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 8920.216000000006, Episode: 1, Step: 229
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9019.136000000006, Episode: 1, Step: 230
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9118.056000000006, Episode: 1, Step: 231
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9216.976000000006, Episode: 1, Step: 232
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9315.896000000006, Episode: 1, Step: 233
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9414.816000000006, Episode: 1, Step: 234
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9513.736000000006, Episode: 1, Step: 235
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9612.656000000006, Episode: 1, Step: 236
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9711.576000000006, Episode: 1, Step: 237
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9810.496000000006, Episode: 1, Step: 238
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 9909.416000000007, Episode: 1, Step: 239
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10008.336000000007, Episode: 1, Step: 240
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10107.256000000007, Episode: 1, Step: 241
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10206.176000000007, Episode: 1, Step: 242
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10305.096000000007, Episode: 1, Step: 243
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10404.016000000007, Episode: 1, Step: 244
+State: [[-10 -10 -10]], Action: 1, Reward: -64.92, Score: 10339.096000000007, Episode: 1, Step: 245
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10438.016000000007, Episode: 1, Step: 246
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10536.936000000007, Episode: 1, Step: 247
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 10477.936000000007, Episode: 1, Step: 248
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10576.856000000007, Episode: 1, Step: 249
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10675.776000000007, Episode: 1, Step: 250
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10774.696000000007, Episode: 1, Step: 251
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10873.616000000007, Episode: 1, Step: 252
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 10972.536000000007, Episode: 1, Step: 253
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11071.456000000007, Episode: 1, Step: 254
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11170.376000000007, Episode: 1, Step: 255
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11269.296000000008, Episode: 1, Step: 256
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11368.216000000008, Episode: 1, Step: 257
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11467.136000000008, Episode: 1, Step: 258
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11566.056000000008, Episode: 1, Step: 259
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11664.976000000008, Episode: 1, Step: 260
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11763.896000000008, Episode: 1, Step: 261
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 11698.896000000008, Episode: 1, Step: 262
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11797.816000000008, Episode: 1, Step: 263
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11896.736000000008, Episode: 1, Step: 264
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 11995.656000000008, Episode: 1, Step: 265
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12094.576000000008, Episode: 1, Step: 266
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12193.496000000008, Episode: 1, Step: 267
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12292.416000000008, Episode: 1, Step: 268
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12391.336000000008, Episode: 1, Step: 269
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12490.256000000008, Episode: 1, Step: 270
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12589.176000000009, Episode: 1, Step: 271
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12688.096000000009, Episode: 1, Step: 272
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12787.016000000009, Episode: 1, Step: 273
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12885.936000000009, Episode: 1, Step: 274
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 12984.856000000009, Episode: 1, Step: 275
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13083.776000000009, Episode: 1, Step: 276
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13182.696000000009, Episode: 1, Step: 277
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13281.616000000009, Episode: 1, Step: 278
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13380.53600000001, Episode: 1, Step: 279
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13479.45600000001, Episode: 1, Step: 280
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13578.37600000001, Episode: 1, Step: 281
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13677.29600000001, Episode: 1, Step: 282
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13776.21600000001, Episode: 1, Step: 283
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13875.13600000001, Episode: 1, Step: 284
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 13974.05600000001, Episode: 1, Step: 285
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14072.97600000001, Episode: 1, Step: 286
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14171.89600000001, Episode: 1, Step: 287
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14270.81600000001, Episode: 1, Step: 288
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14369.73600000001, Episode: 1, Step: 289
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14468.65600000001, Episode: 1, Step: 290
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14567.57600000001, Episode: 1, Step: 291
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14666.49600000001, Episode: 1, Step: 292
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14765.41600000001, Episode: 1, Step: 293
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14864.33600000001, Episode: 1, Step: 294
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 14963.25600000001, Episode: 1, Step: 295
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15062.17600000001, Episode: 1, Step: 296
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15161.09600000001, Episode: 1, Step: 297
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15260.01600000001, Episode: 1, Step: 298
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15358.93600000001, Episode: 1, Step: 299
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15457.85600000001, Episode: 1, Step: 300
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15556.77600000001, Episode: 1, Step: 301
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15655.69600000001, Episode: 1, Step: 302
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15754.61600000001, Episode: 1, Step: 303
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15853.536000000011, Episode: 1, Step: 304
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 15952.456000000011, Episode: 1, Step: 305
+State: [[-10 -10 -10]], Action: 4, Reward: 98.92, Score: 16051.376000000011, Episode: 1, Step: 306
+State: [[ 253.          123.         6939.77817178]], Action: 2, Reward: -146.84, Score: -146.84, Episode: 1, Step: 1
+State: [[ 245.          122.         6939.77817178]], Action: 2, Reward: -146.84, Score: -293.68, Episode: 1, Step: 2
+State: [[ 235.5         122.5        6792.90871522]], Action: 6, Reward: -65.0, Score: -358.68, Episode: 1, Step: 3
+State: [[ 225.        122.       6647.610055]], Action: 4, Reward: 146.92000000000002, Score: -211.76, Episode: 1, Step: 4
+State: [[ 210.5         122.5        6503.88219109]], Action: 2, Reward: -146.84, Score: -358.6, Episode: 1, Step: 5
+State: [[ 202.        123.       6647.610055]], Action: 1, Reward: -16.92, Score: -375.52000000000004, Episode: 1, Step: 6
+State: [[ 194.        122.       6647.610055]], Action: 3, Reward: -82.45599999999999, Score: -457.976, Episode: 1, Step: 7
+State: [[ 177.5         122.5        6503.88219109]], Action: 6, Reward: -65.0, Score: -522.976, Episode: 1, Step: 8
+State: [[ 159.          122.         6361.72512352]], Action: 4, Reward: 146.92000000000002, Score: -376.056, Episode: 1, Step: 9
+State: [[ 148.5         121.5        6503.88219109]], Action: 1, Reward: -16.92, Score: -392.976, Episode: 1, Step: 10
+State: [[ 139.        122.       6647.610055]], Action: 1, Reward: -16.92, Score: -409.896, Episode: 1, Step: 11
+State: [[ 132.          122.         6361.72512352]], Action: 3, Reward: -82.45599999999999, Score: -492.352, Episode: 1, Step: 12
+State: [[ 111.          123.         6082.12337735]], Action: 2, Reward: -146.84, Score: -639.192, Episode: 1, Step: 13
+State: [[  75.5         122.5        5944.67869876]], Action: 6, Reward: -65.0, Score: -704.192, Episode: 1, Step: 14
+State: [[  50.5         122.5        5944.67869876]], Action: 5, Reward: 69.0, Score: -635.192, Episode: 1, Step: 15
+State: [[  49.5         122.5        5410.60794765]], Action: 4, Reward: 146.92000000000002, Score: -488.272, Episode: 1, Step: 16
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: -635.112, Episode: 1, Step: 17
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -694.112, Episode: 1, Step: 18
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -753.112, Episode: 1, Step: 19
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -606.192, Episode: 1, Step: 20
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -459.272, Episode: 1, Step: 21
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -541.728, Episode: 1, Step: 22
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -394.80799999999994, Episode: 1, Step: 23
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -247.88799999999992, Episode: 1, Step: 24
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -312.8879999999999, Episode: 1, Step: 25
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: -371.8879999999999, Episode: 1, Step: 26
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -454.34399999999994, Episode: 1, Step: 27
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -307.4239999999999, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -160.5039999999999, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -13.58399999999989, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -96.03999999999988, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -161.03999999999988, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: -243.49599999999987, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: -308.49599999999987, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -161.57599999999985, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: -14.655999999999835, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 1, Reward: -16.92, Score: -31.575999999999837, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 115.34400000000018, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 184.34400000000016, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 331.2640000000002, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 400.2640000000002, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 547.1840000000002, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 488.1840000000002, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 635.1040000000003, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 704.1040000000003, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 851.0240000000003, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 997.9440000000004, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 915.4880000000004, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 768.6480000000004, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 5, Reward: 69.0, Score: 837.6480000000004, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 984.5680000000004, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 2, Reward: -146.84, Score: 837.7280000000004, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 1, Reward: -16.92, Score: 820.8080000000004, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 967.7280000000005, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 1, Reward: -16.92, Score: 950.8080000000006, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 1097.7280000000005, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 1032.7280000000005, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 967.7280000000005, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 908.7280000000005, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 6, Reward: -65.0, Score: 843.7280000000005, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 0, Reward: -59.0, Score: 784.7280000000005, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 702.2720000000005, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 849.1920000000005, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 4, Reward: 146.92000000000002, Score: 996.1120000000005, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 3, Reward: -82.45599999999999, Score: 913.6560000000005, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -40, Episode: 1, Step: 1
+State: [[ 252.5         122.5        6792.90871522]], Action: 5, Reward: -57.25, Score: -97.25, Episode: 1, Step: 2
+State: [[ 265.          122.         6361.72512352]], Action: 0, Reward: 73.5, Score: -23.75, Episode: 1, Step: 3
+State: [[ 272.5         121.5        4656.62571078]], Action: 2, Reward: -196.45912571078347, Score: -220.20912571078347, Episode: 1, Step: 4
+State: [[ 272.          122.         5026.54824574]], Action: 3, Reward: -146.75674122871834, Score: -366.9658669395018, Episode: 1, Step: 5
+State: [[ 267.5         121.5        5944.67869876]], Action: 0, Reward: 74.75, Score: -292.2158669395018, Episode: 1, Step: 6
+State: [[ 265.          122.         6361.72512352]], Action: 2, Reward: -177.05172512351933, Score: -469.2675920630211, Episode: 1, Step: 7
+State: [[ 258.5         121.5        6792.90871522]], Action: 1, Reward: 116.18670642387735, Score: -353.08088563914373, Episode: 1, Step: 8
+State: [[ 250.          121.         6939.77817178]], Action: 1, Reward: 104.72110914110074, Score: -248.359776498043, Episode: 1, Step: 9
+State: [[ 223.5         121.5        6792.90871522]], Action: 2, Reward: -80.99540871522453, Score: -329.35518521326753, Episode: 1, Step: 10
+State: [[ 200.          122.         6939.77817178]], Action: 5, Reward: -31.0, Score: -360.35518521326753, Episode: 1, Step: 11
+State: [[ 182.5         121.5        6792.90871522]], Action: 2, Reward: -19.49540871522453, Score: -379.85059392849206, Episode: 1, Step: 12
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -419.85059392849206, Episode: 1, Step: 13
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -459.85059392849206, Episode: 1, Step: 14
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -499.85059392849206, Episode: 1, Step: 15
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -539.8505939284921, Episode: 1, Step: 16
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -579.8505939284921, Episode: 1, Step: 17
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -619.8505939284921, Episode: 1, Step: 18
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -659.8505939284921, Episode: 1, Step: 19
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -699.8505939284921, Episode: 1, Step: 20
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -739.8505939284921, Episode: 1, Step: 21
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -779.8505939284921, Episode: 1, Step: 22
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -819.8505939284921, Episode: 1, Step: 23
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -859.8505939284921, Episode: 1, Step: 24
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -899.8505939284921, Episode: 1, Step: 25
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -939.8505939284921, Episode: 1, Step: 26
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -979.8505939284921, Episode: 1, Step: 27
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1019.8505939284921, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1059.8505939284921, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1099.8505939284921, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1139.8505939284921, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1179.8505939284921, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1219.8505939284921, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1259.8505939284921, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1299.8505939284921, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1339.8505939284921, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1379.8505939284921, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1419.8505939284921, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1459.8505939284921, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1499.8505939284921, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1539.8505939284921, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1579.8505939284921, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1619.8505939284921, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1659.8505939284921, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1699.8505939284921, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1739.8505939284921, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1779.8505939284921, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1819.8505939284921, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1859.8505939284921, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1899.8505939284921, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1939.8505939284921, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1979.8505939284921, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2019.8505939284921, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2059.8505939284923, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2099.8505939284923, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2139.8505939284923, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2179.8505939284923, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2219.8505939284923, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2259.8505939284923, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2299.8505939284923, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2339.8505939284923, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2379.8505939284923, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2419.8505939284923, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2459.8505939284923, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2499.8505939284923, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2539.8505939284923, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2579.8505939284923, Episode: 1, Step: 67
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2619.8505939284923, Episode: 1, Step: 68
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2659.8505939284923, Episode: 1, Step: 69
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2699.8505939284923, Episode: 1, Step: 70
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2739.8505939284923, Episode: 1, Step: 71
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2779.8505939284923, Episode: 1, Step: 72
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2819.8505939284923, Episode: 1, Step: 73
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2859.8505939284923, Episode: 1, Step: 74
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2899.8505939284923, Episode: 1, Step: 75
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2939.8505939284923, Episode: 1, Step: 76
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2979.8505939284923, Episode: 1, Step: 77
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3019.8505939284923, Episode: 1, Step: 78
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3059.8505939284923, Episode: 1, Step: 79
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3099.8505939284923, Episode: 1, Step: 80
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3139.8505939284923, Episode: 1, Step: 81
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3179.8505939284923, Episode: 1, Step: 82
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -3219.8505939284923, Episode: 1, Step: 83
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3259.8505939284923, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -3299.8505939284923, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3339.8505939284923, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3379.8505939284923, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3419.8505939284923, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3459.8505939284923, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3499.8505939284923, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3539.8505939284923, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3579.8505939284923, Episode: 1, Step: 92
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -3619.8505939284923, Episode: 1, Step: 93
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3659.8505939284923, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3699.8505939284923, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3739.8505939284923, Episode: 1, Step: 96
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -3779.8505939284923, Episode: 1, Step: 97
+State: [[  39.          120.         4778.36242611]], Action: 1, Reward: 1.5031878694496257, Score: -3778.347406059043, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3818.347406059043, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3858.347406059043, Episode: 1, Step: 100
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3898.347406059043, Episode: 1, Step: 101
+State: [[  90.5         121.5        6503.88219109]], Action: 1, Reward: 25.449339044528656, Score: -3872.8980670145143, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -3912.8980670145143, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3952.8980670145143, Episode: 1, Step: 104
+State: [[ 229.5         122.5        4417.86466911]], Action: 1, Reward: 94.42192665444676, Score: -3858.4761403600673, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3898.4761403600673, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3938.4761403600673, Episode: 1, Step: 107
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3978.4761403600673, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4018.4761403600673, Episode: 1, Step: 109
+State: [[ 197.5         123.5        4185.38681275]], Action: 5, Reward: -29.75, Score: -4048.2261403600673, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4088.2261403600673, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4128.226140360068, Episode: 1, Step: 112
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4168.226140360068, Episode: 1, Step: 113
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4208.226140360068, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -4248.226140360068, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4288.226140360068, Episode: 1, Step: 116
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4328.226140360068, Episode: 1, Step: 117
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4368.226140360068, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4408.226140360068, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4448.226140360068, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4488.226140360068, Episode: 1, Step: 121
+State: [[  73.          126.         1134.11494795]], Action: 0, Reward: -22.5, Score: -4510.726140360068, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4550.726140360068, Episode: 1, Step: 123
+State: [[  53.          125.         1809.55736847]], Action: 5, Reward: 42.5, Score: -4508.226140360068, Episode: 1, Step: 124
+State: [[ 253.5         124.5        2375.82944428]], Action: 0, Reward: 67.75, Score: -4440.476140360068, Episode: 1, Step: 125
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4480.476140360068, Episode: 1, Step: 126
+State: [[ 227.5         122.5        4901.66993776]], Action: 0, Reward: 54.75, Score: -4425.726140360068, Episode: 1, Step: 127
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4465.726140360068, Episode: 1, Step: 128
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4505.726140360068, Episode: 1, Step: 129
+State: [[  128.           128.         51471.85403642]], Action: 3, Reward: -192.35927018207585, Score: -4698.085410542144, Episode: 1, Step: 130
+State: [[  128.           128.         51471.85403642]], Action: 5, Reward: 5.0, Score: -4693.085410542144, Episode: 1, Step: 131
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4733.085410542144, Episode: 1, Step: 132
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4773.085410542144, Episode: 1, Step: 133
+State: [[  122.5          122.5        47143.52475793]], Action: 3, Reward: -170.98987378965919, Score: -4944.075284331803, Episode: 1, Step: 134
+State: [[  195.           120.         45238.93421169]], Action: 1, Reward: -138.7496710584651, Score: -5082.824955390269, Episode: 1, Step: 135
+State: [[  128.           128.         51471.85403642]], Action: 3, Reward: -192.35927018207585, Score: -5275.184225572345, Episode: 1, Step: 136
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5315.184225572345, Episode: 1, Step: 137
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5355.184225572345, Episode: 1, Step: 138
+State: [[  160.           121.         45996.05804121]], Action: 1, Reward: -159.86029020604082, Score: -5515.044515778386, Episode: 1, Step: 139
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5555.044515778386, Episode: 1, Step: 140
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5595.044515778386, Episode: 1, Step: 141
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5635.044515778386, Episode: 1, Step: 142
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5675.044515778386, Episode: 1, Step: 143
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5715.044515778386, Episode: 1, Step: 144
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5755.044515778386, Episode: 1, Step: 145
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5795.044515778386, Episode: 1, Step: 146
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5835.044515778386, Episode: 1, Step: 147
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5875.044515778386, Episode: 1, Step: 148
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5915.044515778386, Episode: 1, Step: 149
+State: [[ 17.         124.         907.92027689]], Action: 0, Reward: -50.5, Score: -5965.544515778386, Episode: 1, Step: 150
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6005.544515778386, Episode: 1, Step: 151
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6045.544515778386, Episode: 1, Step: 152
+State: [[ 124.5         124.5        2551.75863288]], Action: 0, Reward: 3.25, Score: -6042.294515778386, Episode: 1, Step: 153
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -6082.294515778386, Episode: 1, Step: 154
+State: [[ 136.          124.         3216.99087728]], Action: 0, Reward: 9.0, Score: -6073.294515778386, Episode: 1, Step: 155
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6113.294515778386, Episode: 1, Step: 156
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6153.294515778386, Episode: 1, Step: 157
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6193.294515778386, Episode: 1, Step: 158
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -6233.294515778386, Episode: 1, Step: 159
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6273.294515778386, Episode: 1, Step: 160
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6313.294515778386, Episode: 1, Step: 161
+State: [[ 127.         124.        3019.0705401]], Action: 0, Reward: 4.5, Score: -6308.794515778386, Episode: 1, Step: 162
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6348.794515778386, Episode: 1, Step: 163
+State: [[  39.          124.         4300.84034276]], Action: 0, Reward: -39.5, Score: -6388.294515778386, Episode: 1, Step: 164
+State: [[ 227.          122.         5541.76944093]], Action: 0, Reward: 54.5, Score: -6333.794515778386, Episode: 1, Step: 165
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6373.794515778386, Episode: 1, Step: 166
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6413.794515778386, Episode: 1, Step: 167
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -6453.794515778386, Episode: 1, Step: 168
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -6493.794515778386, Episode: 1, Step: 169
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6533.794515778386, Episode: 1, Step: 170
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6573.794515778386, Episode: 1, Step: 171
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6613.794515778386, Episode: 1, Step: 172
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6653.794515778386, Episode: 1, Step: 173
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6693.794515778386, Episode: 1, Step: 174
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6733.794515778386, Episode: 1, Step: 175
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6773.794515778386, Episode: 1, Step: 176
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6813.794515778386, Episode: 1, Step: 177
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6853.794515778386, Episode: 1, Step: 178
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6893.794515778386, Episode: 1, Step: 179
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6933.794515778386, Episode: 1, Step: 180
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -6973.794515778386, Episode: 1, Step: 181
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7013.794515778386, Episode: 1, Step: 182
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -7053.794515778386, Episode: 1, Step: 183
+State: [[ 106.5         124.5        2375.82944428]], Action: 0, Reward: -5.75, Score: -7059.544515778386, Episode: 1, Step: 184
+State: [[  80.5         125.5        2206.18344098]], Action: 0, Reward: -18.75, Score: -7078.294515778386, Episode: 1, Step: 185
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7118.294515778386, Episode: 1, Step: 186
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7158.294515778386, Episode: 1, Step: 187
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -7198.294515778386, Episode: 1, Step: 188
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7238.294515778386, Episode: 1, Step: 189
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7278.294515778386, Episode: 1, Step: 190
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7318.294515778386, Episode: 1, Step: 191
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7358.294515778386, Episode: 1, Step: 192
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7398.294515778386, Episode: 1, Step: 193
+State: [[ 101.          124.         3216.99087728]], Action: 0, Reward: -8.5, Score: -7406.794515778386, Episode: 1, Step: 194
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7446.794515778386, Episode: 1, Step: 195
+State: [[  45.5         121.5        6503.88219109]], Action: 0, Reward: -36.25, Score: -7483.044515778386, Episode: 1, Step: 196
+State: [[ 172.5         120.5        9676.89077122]], Action: 5, Reward: -17.25, Score: -7500.294515778386, Episode: 1, Step: 197
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7540.294515778386, Episode: 1, Step: 198
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7580.294515778386, Episode: 1, Step: 199
+State: [[  100.5          112.5        31730.87119942]], Action: 0, Reward: -8.75, Score: -7589.044515778386, Episode: 1, Step: 200
+State: [[ 289.5         114.5        7697.68739946]], Action: 0, Reward: 85.75, Score: -7503.294515778386, Episode: 1, Step: 201
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7543.294515778386, Episode: 1, Step: 202
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7583.294515778386, Episode: 1, Step: 203
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7623.294515778386, Episode: 1, Step: 204
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -7663.294515778386, Episode: 1, Step: 205
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7703.294515778386, Episode: 1, Step: 206
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7743.294515778386, Episode: 1, Step: 207
+State: [[  40.5         122.5        5152.99735005]], Action: 0, Reward: -38.75, Score: -7782.044515778386, Episode: 1, Step: 208
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7822.044515778386, Episode: 1, Step: 209
+State: [[ 132.5         123.5        3318.30724035]], Action: 0, Reward: 7.25, Score: -7814.794515778386, Episode: 1, Step: 210
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7854.794515778386, Episode: 1, Step: 211
+State: [[  94.          124.         3631.68110755]], Action: 0, Reward: -12.0, Score: -7866.794515778386, Episode: 1, Step: 212
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7906.794515778386, Episode: 1, Step: 213
+State: [[ 225.          123.         3848.45100065]], Action: 0, Reward: 53.5, Score: -7853.294515778386, Episode: 1, Step: 214
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7893.294515778386, Episode: 1, Step: 215
+State: [[  82.          123.         4071.50407905]], Action: 0, Reward: -18.0, Score: -7911.294515778386, Episode: 1, Step: 216
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7951.294515778386, Episode: 1, Step: 217
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -7991.294515778386, Episode: 1, Step: 218
+State: [[  44.5         121.5        6221.13885227]], Action: 2, Reward: -58.943638852271185, Score: -8050.238154630657, Episode: 1, Step: 219
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8090.238154630657, Episode: 1, Step: 220
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8130.238154630657, Episode: 1, Step: 221
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8170.238154630657, Episode: 1, Step: 222
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -8210.238154630657, Episode: 1, Step: 223
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8250.238154630657, Episode: 1, Step: 224
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8290.238154630657, Episode: 1, Step: 225
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8330.238154630657, Episode: 1, Step: 226
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8370.238154630657, Episode: 1, Step: 227
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8410.238154630657, Episode: 1, Step: 228
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8450.238154630657, Episode: 1, Step: 229
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8490.238154630657, Episode: 1, Step: 230
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8530.238154630657, Episode: 1, Step: 231
+State: [[ 276.          121.         4300.84034276]], Action: 1, Reward: 153.01579828617787, Score: -8377.222356344479, Episode: 1, Step: 232
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8417.222356344479, Episode: 1, Step: 233
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8457.222356344479, Episode: 1, Step: 234
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -8497.222356344479, Episode: 1, Step: 235
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -40, Episode: 1, Step: 1
+State: [[ 251.5         122.5        6792.90871522]], Action: 1, Reward: 107.29670642387735, Score: 67.29670642387735, Episode: 1, Step: 2
+State: [[ 245.5         121.5        6792.90871522]], Action: 6, Reward: -31.03545642387735, Score: 36.261250000000004, Episode: 1, Step: 3
+State: [[ 224.5         121.5        6792.90871522]], Action: 0, Reward: 53.25, Score: 89.51125, Episode: 1, Step: 4
+State: [[ 207.5         123.5        6792.90871522]], Action: 6, Reward: -31.03545642387735, Score: 58.475793576122655, Episode: 1, Step: 5
+State: [[ 181.5         122.5        6503.88219109]], Action: 2, Reward: -18.126382191094272, Score: 40.34941138502838, Episode: 1, Step: 6
+State: [[ 154.          122.         6361.72512352]], Action: 5, Reward: -8.0, Score: 32.34941138502838, Episode: 1, Step: 7
+State: [[ 142.          122.         6361.72512352]], Action: 4, Reward: 32.21137438240335, Score: 64.56078576743172, Episode: 1, Step: 8
+State: [[ 125.5         121.5        6221.13885227]], Action: 5, Reward: 6.25, Score: 70.81078576743172, Episode: 1, Step: 9
+State: [[ 122.5         122.5        6221.13885227]], Action: 6, Reward: -33.894305738644064, Score: 36.91648002878766, Episode: 1, Step: 10
+State: [[ 123.          122.         6082.12337735]], Action: 4, Reward: 34.714383113250804, Score: 71.63086314203846, Episode: 1, Step: 11
+State: [[ 129.5         122.5        6221.13885227]], Action: 5, Reward: 4.25, Score: 75.88086314203846, Episode: 1, Step: 12
+State: [[ 170.        122.       6647.610055]], Action: 5, Reward: -16.0, Score: 59.880863142038464, Episode: 1, Step: 13
+State: [[ 242.5         121.5        7088.21842466]], Action: 1, Reward: 95.11015787669014, Score: 154.9910210187286, Episode: 1, Step: 14
+State: [[ 265.        121.       6647.610055]], Action: 1, Reward: 125.60694972501999, Score: 280.5979707437486, Episode: 1, Step: 15
+State: [[ 271.5         121.5        5674.50173055]], Action: 1, Reward: 139.5887413472672, Score: 420.1867120910158, Episode: 1, Step: 16
+State: [[ 273.5         121.5        4901.66993776]], Action: 0, Reward: 77.75, Score: 497.9367120910158, Episode: 1, Step: 17
+State: [[ 269.5         121.5        6221.13885227]], Action: 3, Reward: -146.30594426135593, Score: 351.6307678296599, Episode: 1, Step: 18
+State: [[ 261.          121.         7238.22947387]], Action: 1, Reward: 117.2538526306456, Score: 468.8846204603055, Episode: 1, Step: 19
+State: [[ 237.          121.         7238.22947387]], Action: 5, Reward: -49.5, Score: 419.3846204603055, Episode: 1, Step: 20
+State: [[ 225.5         121.5        7088.21842466]], Action: 2, Reward: -85.15071842466197, Score: 334.2339020356435, Episode: 1, Step: 21
+State: [[ 210.          121.         6939.77817178]], Action: 0, Reward: 46.0, Score: 380.2339020356435, Episode: 1, Step: 22
+State: [[ 204.          122.         7238.22947387]], Action: 0, Reward: 43.0, Score: 423.2339020356435, Episode: 1, Step: 23
+State: [[ 199.          121.         6939.77817178]], Action: 5, Reward: -30.5, Score: 392.7339020356435, Episode: 1, Step: 24
+State: [[ 183.          122.         6939.77817178]], Action: 3, Reward: 3.076109141100737, Score: 395.81001117674424, Episode: 1, Step: 25
+State: [[ 179.5         121.5        6792.90871522]], Action: 5, Reward: -20.75, Score: 375.06001117674424, Episode: 1, Step: 26
+State: [[ 172.5         121.5        6792.90871522]], Action: 5, Reward: -17.25, Score: 357.81001117674424, Episode: 1, Step: 27
+State: [[ 209.5         121.5        6792.90871522]], Action: 5, Reward: -35.75, Score: 322.06001117674424, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: 282.06001117674424, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: 242.06001117674424, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: 202.06001117674424, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: 162.06001117674424, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: 122.06001117674424, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: 82.06001117674424, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: 42.06001117674424, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: 2.06001117674424, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -37.93998882325576, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -77.93998882325576, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -117.93998882325576, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -157.93998882325576, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -197.93998882325576, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -237.93998882325576, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -277.93998882325576, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -317.93998882325576, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -357.93998882325576, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -397.93998882325576, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -437.93998882325576, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -477.93998882325576, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -517.9399888232558, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -557.9399888232558, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -597.9399888232558, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -637.9399888232558, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -677.9399888232558, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -717.9399888232558, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -757.9399888232558, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -797.9399888232558, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -837.9399888232558, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -877.9399888232558, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -917.9399888232558, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -957.9399888232558, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -997.9399888232558, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1037.9399888232558, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1077.9399888232558, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1117.9399888232558, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1157.9399888232558, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1197.9399888232558, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1237.9399888232558, Episode: 1, Step: 67
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1277.9399888232558, Episode: 1, Step: 68
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1317.9399888232558, Episode: 1, Step: 69
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1357.9399888232558, Episode: 1, Step: 70
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1397.9399888232558, Episode: 1, Step: 71
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1437.9399888232558, Episode: 1, Step: 72
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1477.9399888232558, Episode: 1, Step: 73
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1517.9399888232558, Episode: 1, Step: 74
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1557.9399888232558, Episode: 1, Step: 75
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1597.9399888232558, Episode: 1, Step: 76
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1637.9399888232558, Episode: 1, Step: 77
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1677.9399888232558, Episode: 1, Step: 78
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1717.9399888232558, Episode: 1, Step: 79
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1757.9399888232558, Episode: 1, Step: 80
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1797.9399888232558, Episode: 1, Step: 81
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1837.9399888232558, Episode: 1, Step: 82
+State: [[ 218.        122.       6647.610055]], Action: 5, Reward: -40.0, Score: -1877.9399888232558, Episode: 1, Step: 83
+State: [[ 114.          121.         7238.22947387]], Action: 2, Reward: 7.801770526129116, Score: -1870.1382182971267, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1910.1382182971267, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1950.1382182971267, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1990.1382182971267, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2030.1382182971267, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2070.1382182971265, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2110.1382182971265, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2150.1382182971265, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2190.1382182971265, Episode: 1, Step: 92
+State: [[ 262.          121.         7542.96396127]], Action: 2, Reward: -170.1029639612691, Score: -2360.2411822583954, Episode: 1, Step: 93
+State: [[  126.5         118.5       13069.8108371]], Action: 0, Reward: 4.25, Score: -2355.9911822583954, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2395.9911822583954, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2435.9911822583954, Episode: 1, Step: 96
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2475.9911822583954, Episode: 1, Step: 97
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2515.9911822583954, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2555.9911822583954, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2595.9911822583954, Episode: 1, Step: 100
+State: [[ 251.5         122.5        6792.90871522]], Action: 0, Reward: 66.75, Score: -2529.2411822583954, Episode: 1, Step: 101
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2569.2411822583954, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2609.2411822583954, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2649.2411822583954, Episode: 1, Step: 104
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2689.2411822583954, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2729.2411822583954, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2769.2411822583954, Episode: 1, Step: 107
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2809.2411822583954, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2849.2411822583954, Episode: 1, Step: 109
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2889.2411822583954, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2929.2411822583954, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2969.2411822583954, Episode: 1, Step: 112
+State: [[ 275.          121.         3631.68110755]], Action: 1, Reward: 154.886594462251, Score: -2814.354587796144, Episode: 1, Step: 113
+State: [[ 161.          121.         7853.98163397]], Action: 1, Reward: 31.175091830127585, Score: -2783.1794959660165, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2823.1794959660165, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2863.1794959660165, Episode: 1, Step: 116
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2903.1794959660165, Episode: 1, Step: 117
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2943.1794959660165, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2983.1794959660165, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3023.1794959660165, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3063.1794959660165, Episode: 1, Step: 121
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3103.1794959660165, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3143.1794959660165, Episode: 1, Step: 123
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3183.1794959660165, Episode: 1, Step: 124
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3223.1794959660165, Episode: 1, Step: 125
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3263.1794959660165, Episode: 1, Step: 126
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3303.1794959660165, Episode: 1, Step: 127
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3343.1794959660165, Episode: 1, Step: 128
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3383.1794959660165, Episode: 1, Step: 129
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3423.1794959660165, Episode: 1, Step: 130
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -3463.1794959660165, Episode: 1, Step: 131
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3503.1794959660165, Episode: 1, Step: 132
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3543.1794959660165, Episode: 1, Step: 133
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3583.1794959660165, Episode: 1, Step: 134
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3623.1794959660165, Episode: 1, Step: 135
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3663.1794959660165, Episode: 1, Step: 136
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3703.1794959660165, Episode: 1, Step: 137
+State: [[ 245.          122.         6939.77817178]], Action: 3, Reward: -92.89989085889925, Score: -3796.0793868249157, Episode: 1, Step: 138
+State: [[ 105.5         121.5        7389.81131941]], Action: 6, Reward: -28.050943402967043, Score: -3824.1303302278825, Episode: 1, Step: 139
+State: [[  52.          120.         8494.86653531]], Action: 6, Reward: -22.525667323465996, Score: -3846.6559975513483, Episode: 1, Step: 140
+State: [[  89.          123.         4300.84034276]], Action: 0, Reward: -14.5, Score: -3861.1559975513483, Episode: 1, Step: 141
+State: [[ 134.5         124.5        2733.97100679]], Action: 1, Reward: 51.54139496606741, Score: -3809.614602585281, Episode: 1, Step: 142
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3849.614602585281, Episode: 1, Step: 143
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -3889.614602585281, Episode: 1, Step: 144
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3929.614602585281, Episode: 1, Step: 145
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3969.614602585281, Episode: 1, Step: 146
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4009.614602585281, Episode: 1, Step: 147
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4049.614602585281, Episode: 1, Step: 148
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4089.614602585281, Episode: 1, Step: 149
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4129.614602585281, Episode: 1, Step: 150
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4169.614602585281, Episode: 1, Step: 151
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4209.614602585281, Episode: 1, Step: 152
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4249.614602585281, Episode: 1, Step: 153
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -4289.614602585281, Episode: 1, Step: 154
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4329.614602585281, Episode: 1, Step: 155
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4369.614602585281, Episode: 1, Step: 156
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4409.614602585281, Episode: 1, Step: 157
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4449.614602585281, Episode: 1, Step: 158
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4489.614602585281, Episode: 1, Step: 159
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4529.614602585281, Episode: 1, Step: 160
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4569.614602585281, Episode: 1, Step: 161
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4609.614602585281, Episode: 1, Step: 162
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4649.614602585281, Episode: 1, Step: 163
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -4689.614602585281, Episode: 1, Step: 164
+State: [[ 200.          123.         6939.77817178]], Action: 0, Reward: 41.0, Score: -4648.614602585281, Episode: 1, Step: 165
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4688.614602585281, Episode: 1, Step: 166
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4728.614602585281, Episode: 1, Step: 167
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4768.614602585281, Episode: 1, Step: 168
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4808.614602585281, Episode: 1, Step: 169
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4848.614602585281, Episode: 1, Step: 170
+State: [[ 184.          122.         6939.77817178]], Action: 3, Reward: 2.0771091411007383, Score: -4846.537493444181, Episode: 1, Step: 171
+State: [[  48.5         121.5        7389.81131941]], Action: 6, Reward: -28.050943402967043, Score: -4874.588436847148, Episode: 1, Step: 172
+State: [[  49.          121.         7542.96396127]], Action: 3, Reward: -28.883819806345464, Score: -4903.472256653494, Episode: 1, Step: 173
+State: [[ 102.          123.         4071.50407905]], Action: 3, Reward: 38.55847960473814, Score: -4864.913777048756, Episode: 1, Step: 174
+State: [[ 147.          123.         4071.50407905]], Action: 3, Reward: 41.39347960473814, Score: -4823.520297444018, Episode: 1, Step: 175
+State: [[  55.          123.         5026.54824574]], Action: 3, Reward: -8.093741228718343, Score: -4831.614038672737, Episode: 1, Step: 176
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4871.614038672737, Episode: 1, Step: 177
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4911.614038672737, Episode: 1, Step: 178
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4951.614038672737, Episode: 1, Step: 179
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4991.614038672737, Episode: 1, Step: 180
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5031.614038672737, Episode: 1, Step: 181
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5071.614038672737, Episode: 1, Step: 182
+State: [[ 253.          123.         6939.77817178]], Action: 3, Reward: -110.32389085889926, Score: -5181.937929531636, Episode: 1, Step: 183
+State: [[ 127.5         121.5        7088.21842466]], Action: 3, Reward: 29.556657876690146, Score: -5152.3812716549455, Episode: 1, Step: 184
+State: [[  54.          120.         9160.88417787]], Action: 3, Reward: -30.08842088933918, Score: -5182.469692544285, Episode: 1, Step: 185
+State: [[  54.          120.         9160.88417787]], Action: 3, Reward: -30.08842088933918, Score: -5212.558113433624, Episode: 1, Step: 186
+State: [[  131.           120.         10207.03453151]], Action: 3, Reward: 13.88382734243381, Score: -5198.674286091191, Episode: 1, Step: 187
+State: [[   81.5          119.5        11122.02339187]], Action: 3, Reward: -10.070366959356328, Score: -5208.744653050548, Episode: 1, Step: 188
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5248.744653050548, Episode: 1, Step: 189
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5288.744653050548, Episode: 1, Step: 190
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -5328.744653050548, Episode: 1, Step: 191
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5368.744653050548, Episode: 1, Step: 192
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5408.744653050548, Episode: 1, Step: 193
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5448.744653050548, Episode: 1, Step: 194
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5488.744653050548, Episode: 1, Step: 195
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5528.744653050548, Episode: 1, Step: 196
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5568.744653050548, Episode: 1, Step: 197
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5608.744653050548, Episode: 1, Step: 198
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5648.744653050548, Episode: 1, Step: 199
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5688.744653050548, Episode: 1, Step: 200
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5728.744653050548, Episode: 1, Step: 201
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -40, Episode: 1, Step: 1
+State: [[ 249.          123.         6939.77817178]], Action: 0, Reward: 65.5, Score: 25.5, Episode: 1, Step: 2
+State: [[ 144.          123.         4778.36242611]], Action: 4, Reward: 39.82818786944963, Score: 65.32818786944964, Episode: 1, Step: 3
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: 25.328187869449636, Episode: 1, Step: 4
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -14.671812130550364, Episode: 1, Step: 5
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -54.671812130550364, Episode: 1, Step: 6
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -94.67181213055036, Episode: 1, Step: 7
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -134.67181213055036, Episode: 1, Step: 8
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -174.67181213055036, Episode: 1, Step: 9
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -214.67181213055036, Episode: 1, Step: 10
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -254.67181213055036, Episode: 1, Step: 11
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -294.6718121305504, Episode: 1, Step: 12
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -334.6718121305504, Episode: 1, Step: 13
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -374.6718121305504, Episode: 1, Step: 14
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -414.6718121305504, Episode: 1, Step: 15
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -454.6718121305504, Episode: 1, Step: 16
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -494.6718121305504, Episode: 1, Step: 17
+State: [[ 255.          122.         6939.77817178]], Action: 5, Reward: -58.5, Score: -553.1718121305504, Episode: 1, Step: 18
+State: [[ 141.5         123.5        4656.62571078]], Action: 2, Reward: 10.52087428921653, Score: -542.6509378413339, Episode: 1, Step: 19
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -582.6509378413339, Episode: 1, Step: 20
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -622.6509378413339, Episode: 1, Step: 21
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -662.6509378413339, Episode: 1, Step: 22
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -702.6509378413339, Episode: 1, Step: 23
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -742.6509378413339, Episode: 1, Step: 24
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -782.6509378413339, Episode: 1, Step: 25
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -822.6509378413339, Episode: 1, Step: 26
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -862.6509378413339, Episode: 1, Step: 27
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -902.6509378413339, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -942.6509378413339, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -982.6509378413339, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1022.6509378413339, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1062.6509378413339, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1102.6509378413339, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1142.6509378413339, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1182.6509378413339, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1222.6509378413339, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1262.6509378413339, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1302.6509378413339, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1342.6509378413339, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1382.6509378413339, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1422.6509378413339, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1462.6509378413339, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1502.6509378413339, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1542.6509378413339, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -1582.6509378413339, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1622.6509378413339, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1662.6509378413339, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1702.6509378413339, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1742.6509378413339, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1782.6509378413339, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1822.6509378413339, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1862.6509378413339, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1902.6509378413339, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1942.6509378413339, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1982.6509378413339, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2022.6509378413339, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2062.650937841334, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2102.650937841334, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2142.650937841334, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2182.650937841334, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2222.650937841334, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2262.650937841334, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2302.650937841334, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2342.650937841334, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2382.650937841334, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -2422.650937841334, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2462.650937841334, Episode: 1, Step: 67
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2502.650937841334, Episode: 1, Step: 68
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2542.650937841334, Episode: 1, Step: 69
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2582.650937841334, Episode: 1, Step: 70
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2622.650937841334, Episode: 1, Step: 71
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2662.650937841334, Episode: 1, Step: 72
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2702.650937841334, Episode: 1, Step: 73
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2742.650937841334, Episode: 1, Step: 74
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2782.650937841334, Episode: 1, Step: 75
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2822.650937841334, Episode: 1, Step: 76
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2862.650937841334, Episode: 1, Step: 77
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2902.650937841334, Episode: 1, Step: 78
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2942.650937841334, Episode: 1, Step: 79
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2982.650937841334, Episode: 1, Step: 80
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3022.650937841334, Episode: 1, Step: 81
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3062.650937841334, Episode: 1, Step: 82
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3102.650937841334, Episode: 1, Step: 83
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3142.650937841334, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -3182.650937841334, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3222.650937841334, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3262.650937841334, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3302.650937841334, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3342.650937841334, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3382.650937841334, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3422.650937841334, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3462.650937841334, Episode: 1, Step: 92
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3502.650937841334, Episode: 1, Step: 93
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3542.650937841334, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -3582.650937841334, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3622.650937841334, Episode: 1, Step: 96
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3662.650937841334, Episode: 1, Step: 97
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3702.650937841334, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3742.650937841334, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3782.650937841334, Episode: 1, Step: 100
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3822.650937841334, Episode: 1, Step: 101
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3862.650937841334, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3902.650937841334, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3942.650937841334, Episode: 1, Step: 104
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -3982.650937841334, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4022.650937841334, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4062.650937841334, Episode: 1, Step: 107
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4102.650937841334, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -4142.650937841334, Episode: 1, Step: 109
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4182.650937841334, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4222.650937841334, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4262.650937841334, Episode: 1, Step: 112
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4302.650937841334, Episode: 1, Step: 113
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4342.650937841334, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4382.650937841334, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4422.650937841334, Episode: 1, Step: 116
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4462.650937841334, Episode: 1, Step: 117
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -4502.650937841334, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4542.650937841334, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4582.650937841334, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4622.650937841334, Episode: 1, Step: 121
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4662.650937841334, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -4702.650937841334, Episode: 1, Step: 123
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -4742.650937841334, Episode: 1, Step: 124
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -40, Episode: 1, Step: 1
+State: [[ 253.          123.         6939.77817178]], Action: 6, Reward: -30.30110914110073, Score: -70.30110914110074, Episode: 1, Step: 2
+State: [[ 238.5         121.5        6792.90871522]], Action: 0, Reward: 60.25, Score: -10.051109141100738, Episode: 1, Step: 3
+State: [[ 235.5         121.5        6792.90871522]], Action: 5, Reward: -48.75, Score: -58.80110914110074, Episode: 1, Step: 4
+State: [[ 224.5         122.5        6503.88219109]], Action: 0, Reward: 53.25, Score: -5.5511091411007385, Episode: 1, Step: 5
+State: [[ 219.5         122.5        6503.88219109]], Action: 4, Reward: -9.380660955471342, Score: -14.93177009657208, Episode: 1, Step: 6
+State: [[ 214.          122.         6361.72512352]], Action: 1, Reward: 70.17137438240334, Score: 55.23960428583126, Episode: 1, Step: 7
+State: [[ 207.5         123.5        6503.88219109]], Action: 4, Reward: 0.8793390445286562, Score: 56.11894333035992, Episode: 1, Step: 8
+State: [[ 185.5         122.5        6503.88219109]], Action: 4, Reward: 15.949339044528656, Score: 72.06828237488858, Episode: 1, Step: 9
+State: [[ 183.5         122.5        6503.88219109]], Action: 6, Reward: -32.48058904452866, Score: 39.587693330359926, Episode: 1, Step: 10
+State: [[ 186.5         122.5        6503.88219109]], Action: 6, Reward: -32.48058904452866, Score: 7.107104285831269, Episode: 1, Step: 11
+State: [[  97.          123.         4300.84034276]], Action: 1, Reward: 38.690798286177866, Score: 45.797902572009136, Episode: 1, Step: 12
+State: [[  92.5         123.5        4185.38681275]], Action: 4, Reward: 50.37431593627498, Score: 96.17221850828412, Episode: 1, Step: 13
+State: [[  92.5         123.5        4185.38681275]], Action: 1, Reward: 37.77181593627498, Score: 133.9440344445591, Episode: 1, Step: 14
+State: [[ 128.          123.         4071.50407905]], Action: 2, Reward: 12.92849592094763, Score: 146.87253036550672, Episode: 1, Step: 15
+State: [[ 136.          123.         4071.50407905]], Action: 4, Reward: 44.32247960473814, Score: 191.19500997024485, Episode: 1, Step: 16
+State: [[ 144.          123.         4071.50407905]], Action: 1, Reward: 45.92247960473814, Score: 237.11748957498298, Episode: 1, Step: 17
+State: [[ 201.5         124.5        4185.38681275]], Action: 4, Reward: 17.061815936274986, Score: 254.17930551125798, Episode: 1, Step: 18
+State: [[ 208.5         123.5        4185.38681275]], Action: 6, Reward: -44.073065936274986, Score: 210.106239574983, Episode: 1, Step: 19
+State: [[ 264.          123.         3848.45100065]], Action: 6, Reward: -45.757744996762526, Score: 164.34849457822048, Episode: 1, Step: 20
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: 124.34849457822048, Episode: 1, Step: 21
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: 84.34849457822048, Episode: 1, Step: 22
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: 44.34849457822048, Episode: 1, Step: 23
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: 4.348494578220482, Episode: 1, Step: 24
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -35.65150542177952, Episode: 1, Step: 25
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -75.65150542177952, Episode: 1, Step: 26
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -115.65150542177952, Episode: 1, Step: 27
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -155.65150542177952, Episode: 1, Step: 28
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -195.65150542177952, Episode: 1, Step: 29
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -235.65150542177952, Episode: 1, Step: 30
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -275.6515054217795, Episode: 1, Step: 31
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -315.6515054217795, Episode: 1, Step: 32
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -355.6515054217795, Episode: 1, Step: 33
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -395.6515054217795, Episode: 1, Step: 34
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -435.6515054217795, Episode: 1, Step: 35
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -475.6515054217795, Episode: 1, Step: 36
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -515.6515054217796, Episode: 1, Step: 37
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -555.6515054217796, Episode: 1, Step: 38
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -595.6515054217796, Episode: 1, Step: 39
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -635.6515054217796, Episode: 1, Step: 40
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -675.6515054217796, Episode: 1, Step: 41
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -715.6515054217796, Episode: 1, Step: 42
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -755.6515054217796, Episode: 1, Step: 43
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -795.6515054217796, Episode: 1, Step: 44
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -835.6515054217796, Episode: 1, Step: 45
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -875.6515054217796, Episode: 1, Step: 46
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -915.6515054217796, Episode: 1, Step: 47
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -955.6515054217796, Episode: 1, Step: 48
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -995.6515054217796, Episode: 1, Step: 49
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1035.6515054217796, Episode: 1, Step: 50
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1075.6515054217796, Episode: 1, Step: 51
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1115.6515054217796, Episode: 1, Step: 52
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1155.6515054217796, Episode: 1, Step: 53
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1195.6515054217796, Episode: 1, Step: 54
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1235.6515054217796, Episode: 1, Step: 55
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1275.6515054217796, Episode: 1, Step: 56
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1315.6515054217796, Episode: 1, Step: 57
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1355.6515054217796, Episode: 1, Step: 58
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1395.6515054217796, Episode: 1, Step: 59
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1435.6515054217796, Episode: 1, Step: 60
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1475.6515054217796, Episode: 1, Step: 61
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1515.6515054217796, Episode: 1, Step: 62
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1555.6515054217796, Episode: 1, Step: 63
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1595.6515054217796, Episode: 1, Step: 64
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1635.6515054217796, Episode: 1, Step: 65
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1675.6515054217796, Episode: 1, Step: 66
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1715.6515054217796, Episode: 1, Step: 67
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -1755.6515054217796, Episode: 1, Step: 68
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -1795.6515054217796, Episode: 1, Step: 69
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -1835.6515054217796, Episode: 1, Step: 70
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -1875.6515054217796, Episode: 1, Step: 71
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1915.6515054217796, Episode: 1, Step: 72
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -1955.6515054217796, Episode: 1, Step: 73
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -1995.6515054217796, Episode: 1, Step: 74
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2035.6515054217796, Episode: 1, Step: 75
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2075.65150542178, Episode: 1, Step: 76
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2115.65150542178, Episode: 1, Step: 77
+State: [[ 253.          123.         6939.77817178]], Action: 6, Reward: -30.30110914110073, Score: -2145.9526145628806, Episode: 1, Step: 78
+State: [[ 139.5         121.5        7088.21842466]], Action: 6, Reward: -29.55890787669015, Score: -2175.511522439571, Episode: 1, Step: 79
+State: [[  43.5         123.5        4901.66993776]], Action: 4, Reward: 76.19290031118263, Score: -2099.318622128388, Episode: 1, Step: 80
+State: [[  71.          124.         2827.43338823]], Action: 4, Reward: 67.10783305884594, Score: -2032.2107890695422, Episode: 1, Step: 81
+State: [[ 247.          124.         2827.43338823]], Action: 4, Reward: -19.94216694115407, Score: -2052.1529560106965, Episode: 1, Step: 82
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2092.1529560106965, Episode: 1, Step: 83
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -2132.1529560106965, Episode: 1, Step: 84
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2172.1529560106965, Episode: 1, Step: 85
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2212.1529560106965, Episode: 1, Step: 86
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2252.1529560106965, Episode: 1, Step: 87
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2292.1529560106965, Episode: 1, Step: 88
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2332.1529560106965, Episode: 1, Step: 89
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2372.1529560106965, Episode: 1, Step: 90
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2412.1529560106965, Episode: 1, Step: 91
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2452.1529560106965, Episode: 1, Step: 92
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2492.1529560106965, Episode: 1, Step: 93
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2532.1529560106965, Episode: 1, Step: 94
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2572.1529560106965, Episode: 1, Step: 95
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2612.1529560106965, Episode: 1, Step: 96
+State: [[ 225.        122.       6647.610055]], Action: 1, Reward: 78.80694972501999, Score: -2533.3460062856766, Episode: 1, Step: 97
+State: [[  98.          124.         4778.36242611]], Action: 1, Reward: 36.60818786944963, Score: -2496.737818416227, Episode: 1, Step: 98
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2536.737818416227, Episode: 1, Step: 99
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2576.737818416227, Episode: 1, Step: 100
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2616.737818416227, Episode: 1, Step: 101
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2656.737818416227, Episode: 1, Step: 102
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -2696.737818416227, Episode: 1, Step: 103
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -2736.737818416227, Episode: 1, Step: 104
+State: [[ 197.5         122.5        6503.88219109]], Action: 6, Reward: -32.48058904452866, Score: -2769.2184074607558, Episode: 1, Step: 105
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -2809.2184074607558, Episode: 1, Step: 106
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2849.2184074607558, Episode: 1, Step: 107
+State: [[ 229.          123.         4300.84034276]], Action: 0, Reward: 55.5, Score: -2793.7184074607558, Episode: 1, Step: 108
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -2833.7184074607558, Episode: 1, Step: 109
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2873.7184074607558, Episode: 1, Step: 110
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2913.7184074607558, Episode: 1, Step: 111
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2953.7184074607558, Episode: 1, Step: 112
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -2993.7184074607558, Episode: 1, Step: 113
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3033.7184074607558, Episode: 1, Step: 114
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3073.7184074607558, Episode: 1, Step: 115
+State: [[-10 -10 -10]], Action: 3, Reward: -40, Score: -3113.7184074607558, Episode: 1, Step: 116
+State: [[ 211.        122.       6647.610055]], Action: 0, Reward: 46.5, Score: -3067.2184074607558, Episode: 1, Step: 117
+State: [[  81.          120.         9852.03456166]], Action: 0, Reward: -18.5, Score: -3085.7184074607558, Episode: 1, Step: 118
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3125.7184074607558, Episode: 1, Step: 119
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3165.7184074607558, Episode: 1, Step: 120
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3205.7184074607558, Episode: 1, Step: 121
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3245.7184074607558, Episode: 1, Step: 122
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3285.7184074607558, Episode: 1, Step: 123
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3325.7184074607558, Episode: 1, Step: 124
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3365.7184074607558, Episode: 1, Step: 125
+State: [[ 193.          123.         6939.77817178]], Action: 5, Reward: -27.5, Score: -3393.2184074607558, Episode: 1, Step: 126
+State: [[  52.5         121.5        7697.68739946]], Action: 5, Reward: 42.75, Score: -3350.4684074607558, Episode: 1, Step: 127
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3390.4684074607558, Episode: 1, Step: 128
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3430.4684074607558, Episode: 1, Step: 129
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3470.4684074607558, Episode: 1, Step: 130
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3510.4684074607558, Episode: 1, Step: 131
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3550.4684074607558, Episode: 1, Step: 132
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -3590.4684074607558, Episode: 1, Step: 133
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3630.4684074607558, Episode: 1, Step: 134
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3670.4684074607558, Episode: 1, Step: 135
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3710.4684074607558, Episode: 1, Step: 136
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3750.4684074607558, Episode: 1, Step: 137
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3790.4684074607558, Episode: 1, Step: 138
+State: [[  121.5          114.5        25730.42923106]], Action: 5, Reward: 8.25, Score: -3782.2184074607558, Episode: 1, Step: 139
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3822.2184074607558, Episode: 1, Step: 140
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3862.2184074607558, Episode: 1, Step: 141
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -3902.2184074607558, Episode: 1, Step: 142
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -3942.2184074607558, Episode: 1, Step: 143
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -3982.2184074607558, Episode: 1, Step: 144
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -4022.2184074607558, Episode: 1, Step: 145
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4062.2184074607558, Episode: 1, Step: 146
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4102.218407460756, Episode: 1, Step: 147
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4142.218407460756, Episode: 1, Step: 148
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4182.218407460756, Episode: 1, Step: 149
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4222.218407460756, Episode: 1, Step: 150
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4262.218407460756, Episode: 1, Step: 151
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4302.218407460756, Episode: 1, Step: 152
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4342.218407460756, Episode: 1, Step: 153
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4382.218407460756, Episode: 1, Step: 154
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4422.218407460756, Episode: 1, Step: 155
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -4462.218407460756, Episode: 1, Step: 156
+State: [[-10 -10 -10]], Action: 4, Reward: -40, Score: -4502.218407460756, Episode: 1, Step: 157
+State: [[  71.5         124.5        3318.30724035]], Action: 0, Reward: -23.25, Score: -4525.468407460756, Episode: 1, Step: 158
+State: [[ 110.          123.         4071.50407905]], Action: 1, Reward: 43.022479604738145, Score: -4482.445927856018, Episode: 1, Step: 159
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4522.445927856018, Episode: 1, Step: 160
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4562.445927856018, Episode: 1, Step: 161
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4602.445927856018, Episode: 1, Step: 162
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4642.445927856018, Episode: 1, Step: 163
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4682.445927856018, Episode: 1, Step: 164
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4722.445927856018, Episode: 1, Step: 165
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4762.445927856018, Episode: 1, Step: 166
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4802.445927856018, Episode: 1, Step: 167
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -4842.445927856018, Episode: 1, Step: 168
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4882.445927856018, Episode: 1, Step: 169
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4922.445927856018, Episode: 1, Step: 170
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -4962.445927856018, Episode: 1, Step: 171
+State: [[ 242.          122.         6939.77817178]], Action: 4, Reward: -34.678890858899265, Score: -4997.124818714918, Episode: 1, Step: 172
+State: [[ 113.          121.         7238.22947387]], Action: 4, Reward: 29.933852630645585, Score: -4967.190966084272, Episode: 1, Step: 173
+State: [[ 271.          121.         6361.72512352]], Action: 4, Reward: -69.05362561759665, Score: -5036.244591701869, Episode: 1, Step: 174
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5076.244591701869, Episode: 1, Step: 175
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5116.244591701869, Episode: 1, Step: 176
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5156.244591701869, Episode: 1, Step: 177
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5196.244591701869, Episode: 1, Step: 178
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5236.244591701869, Episode: 1, Step: 179
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5276.244591701869, Episode: 1, Step: 180
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5316.244591701869, Episode: 1, Step: 181
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5356.244591701869, Episode: 1, Step: 182
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5396.244591701869, Episode: 1, Step: 183
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -5436.244591701869, Episode: 1, Step: 184
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5476.244591701869, Episode: 1, Step: 185
+State: [[ 224.5         121.5        6792.90871522]], Action: 1, Reward: 77.59670642387735, Score: -5398.647885277991, Episode: 1, Step: 186
+State: [[  89.5         121.5        7389.81131941]], Action: 1, Reward: 20.639693402967048, Score: -5378.008191875024, Episode: 1, Step: 187
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5418.008191875024, Episode: 1, Step: 188
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5458.008191875024, Episode: 1, Step: 189
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5498.008191875024, Episode: 1, Step: 190
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5538.008191875024, Episode: 1, Step: 191
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5578.008191875024, Episode: 1, Step: 192
+State: [[ 130.5         121.5        7088.21842466]], Action: 4, Reward: 29.527657876690146, Score: -5548.480533998334, Episode: 1, Step: 193
+State: [[  47.          121.         6939.77817178]], Action: 1, Reward: -2.5038908588992648, Score: -5550.9844248572335, Episode: 1, Step: 194
+State: [[ 272.5         121.5        4417.86466911]], Action: 0, Reward: 77.25, Score: -5473.7344248572335, Episode: 1, Step: 195
+State: [[ 124.          122.         5808.80481649]], Action: 4, Reward: 36.03597591756237, Score: -5437.698448939671, Episode: 1, Step: 196
+State: [[-10 -10 -10]], Action: 0, Reward: -40, Score: -5477.698448939671, Episode: 1, Step: 197
+State: [[-10 -10 -10]], Action: 6, Reward: -40, Score: -5517.698448939671, Episode: 1, Step: 198
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5557.698448939671, Episode: 1, Step: 199
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5597.698448939671, Episode: 1, Step: 200
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5637.698448939671, Episode: 1, Step: 201
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5677.698448939671, Episode: 1, Step: 202
+State: [[-10 -10 -10]], Action: 5, Reward: -40, Score: -5717.698448939671, Episode: 1, Step: 203
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5757.698448939671, Episode: 1, Step: 204
+State: [[-10 -10 -10]], Action: 1, Reward: -40, Score: -5797.698448939671, Episode: 1, Step: 205
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5837.698448939671, Episode: 1, Step: 206
+State: [[ 110.          122.         6082.12337735]], Action: 0, Reward: -4.0, Score: -5841.698448939671, Episode: 1, Step: 207
+State: [[ 167.          123.         5281.01725068]], Action: 0, Reward: 24.5, Score: -5817.198448939671, Episode: 1, Step: 208
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5857.198448939671, Episode: 1, Step: 209
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5897.198448939671, Episode: 1, Step: 210
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5937.198448939671, Episode: 1, Step: 211
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -5977.198448939671, Episode: 1, Step: 212
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -6017.198448939671, Episode: 1, Step: 213
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -6057.198448939671, Episode: 1, Step: 214
+State: [[ 181.          122.         6939.77817178]], Action: 4, Reward: 16.256109141100737, Score: -6040.94233979857, Episode: 1, Step: 215
+State: [[  49.          121.         7542.96396127]], Action: 4, Reward: 58.49018019365453, Score: -5982.452159604915, Episode: 1, Step: 216
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -6022.452159604915, Episode: 1, Step: 217
+State: [[-10 -10 -10]], Action: 2, Reward: -40, Score: -6062.452159604915, Episode: 1, Step: 218
